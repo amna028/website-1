@@ -1,0 +1,68 @@
+.alert {
+    font-size: 12px;
+}
+
+.flag {
+    width: 20px;
+    height: 15px;
+}
+
+.navbar {
+    font-size: 12px;
+}
+
+.as {
+    font-size: 10px;
+}
+
+.dropdown-item {
+    font-size: 12px;
+}
+
+.bn {
+    border: none;
+    width: 400px;
+}
+
+.nav-tabs {
+    gap: 25px;
+
+}
+
+.row {
+    gap: 15px;
+}
+
+.contactus {
+    display: flex;
+    gap: 30px;
+}
+
+.aboutus {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: aliceblue;
+}
+
+.au1 {
+    width: 50%;
+    text-align: left;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.li1 {
+    width: 50%;
+    text-align: left;
+
+}
+
+.li2 {
+    text-align: left;
+
+}
